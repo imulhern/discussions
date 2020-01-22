@@ -1,0 +1,14 @@
+p {
+    color:black;
+}
+h1 {
+    color:blue;
+    text-align: center;
+}
+h2 {
+    color: cyan;
+    text-shadow: 2px 1px darkblue;
+}
+li {
+    list-style-image: url('tinym.png');
+}
